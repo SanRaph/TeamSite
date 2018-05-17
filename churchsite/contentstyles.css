@@ -1,0 +1,50 @@
+/*RaphaelCSS*/
+/*Letters and Content Styling*/
+
+.raphp {
+font-family: Cambria, Cochin, serif;
+font-size: 50em;
+margin-bottom: -5px;
+}
+
+.raphh1 {
+font-family: "Trebuchet MS", Arial, sans-serif;
+font-size: 2.1em;
+color: #3399FF;
+}
+
+.raphdiv {
+width: 350px;
+line-height: 26px;
+}
+
+.firstLetter {
+background-color: #3399FF;
+color: #FFF;
+float: left;
+font-size: 30px;
+margin-right: 10px;
+margin-top: 7px;
+padding: 18px;
+border-radius: 5px;
+box-shadow: 0 0 10px -2px #999999;
+}
+
+
+.newspaper {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: solid; /* Firefox */
+    column-rule-style: solid;
+    -webkit-column-rule-width: 1px; /* Chrome, Safari, Opera */
+    -moz-column-rule-width: 1px; /* Firefox */
+    column-rule-width: 1px;
+    -webkit-column-rule-color: lightblue; /* Chrome, Safari, Opera */
+    -moz-column-rule-color: lightblue; /* Firefox */
+    column-rule-color: lightblue;
+}
